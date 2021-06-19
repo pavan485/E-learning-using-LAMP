@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  background-color: #e6f7ff;
+  font-family:"Tahoma";
+}
+header {
+  background-color: #00aeff;
+  font-family:"Tahoma";
+  height:80px;
+  padding-left:20px;
+  padding-top:1px;
+}
+label{
+	display: inline-block;
+    width: 130px;
+	align-items: center;
+}
+input
+{
+	height:25px;
+	width:240px;
+
+}
+.q1
+{
+	padding-left:45%;
+	
+}
+.q2
+{
+	
+	text-align:center;
+	padding-bottom:3px;
+}
+.q3
+{
+	margin-left:85px;
+}
+.q4
+{
+	margin-left:10.5%;
+}
+.login {
+	border-radius: 8px;
+	background-color:#00b33c;
+	width:100px;
+	height:40px;
+	color:white;
+	border-radius: 8px;
+}
+.reset {
+	background-color:#ff1a1a;
+	width:100px;
+	height:40px;
+	margin-left:20px;
+	color:white;
+	border-radius: 8px;
+	
+}
+.ip {
+	margin-left:40%;
+}
+.fq {
+	margin-left:47%;
+}

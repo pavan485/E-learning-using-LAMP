@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background-color: #e6f7ff;
+  font-family:"Tahoma";
+}
+header {
+  background-color: #00aeff;
+  font-family:"Tahoma";
+  height:80px;
+  padding-left:20px;
+  padding-top:1px;
+}
+.student {
+	border-radius: 8px;
+	background-color:Blue;
+	width:200px;
+	height:80px;
+	color:white;
+	border-radius: 8px;
+	margin:50px;
+}
+.trainer {
+	border-radius: 8px;
+	background-color:darkblue;
+	width:200px;
+	height:80px;
+	color:white;
+	border-radius: 8px;
+	margin:50px;
+}
+.admin {
+	border-radius: 8px;
+	background-color:violet;
+	width:200px;
+	height:80px;
+	color:white;
+	border-radius: 8px;
+	margin:50px;
+}
+.buttons{
+	margin: 0;
+	padding:10% 16%;
+}
